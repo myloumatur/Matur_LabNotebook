@@ -1,1 +1,9 @@
----layout: pagetitle: Aboutpermalink: /about/---I am a graduate student at Hawaii Pacific University interested in the identification of genetic signatures of climate change in marine intertidal invertebrates. My thesis project focuses on understanding the response of 'opihi, an endemic Hawaiian limpet, to thermal and desiccation stress. By measuring heart rate, body temperature, and analyzing differential gene expression between stressed and non-stressed animals, I aim to understand the adaptive capacity of these intertidal organisms.### Contact: [ssamus1@my.hpu.edu](mailto:ssamus1@my.hpu.edu)
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I am an  undergraduate student at Hawaii Pacific University focusing on Ciguatera Fish Poisoning. Ciguatera fish poisoning (CFP), a result of eating fish contaminated with the ciguatoxins (CTXs) produced by Gambierdiscus spp. dinoflagellates (primarily), is one of the most common food poisonings in the world. Here, I propose to go right to the source of the CTX toxins and detect the cell densities of the dinoflagellates producing them throughout Oahu, Hawaii. 
+
+### Contact: [knoseworthy1@my.hpu.edu](mailto:knoseworthy1@my.hpu.edu)
